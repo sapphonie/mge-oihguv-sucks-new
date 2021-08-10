@@ -1,0 +1,59 @@
+================== VBSP ==================
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading D:\oihguv\mge_oihguv_sucks_b3_fix1 - Copy.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate GameData file tf2_ficool2_lite.fgd
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix1 - copy/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 142 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\oihguv\mge_oihguv_sucks_b3_fix1 - Copy.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (91580 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 918 texinfos to 455
+Reduced 32 texdatas to 27 (731 bytes to 540)
+Writing D:\oihguv\mge_oihguv_sucks_b3_fix1 - Copy.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\oihguv\mge_oihguv_sucks_b3_fix1 - Copy.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1134, actual size 920
+2 seconds elapsed
+
+================== VVIS ==================
+
+
+
+
+12 threads
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1 - Copy.bsp
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1 - Copy.prt
+ 179 portalclusters
+ 608 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 475 visible clusters (1.57%)
+Total clusters visible: 30232
+Average clusters visible: 168
+Building PAS...
+Average clusters audible: 179
+visdatasize:9664  compressed from 8592
+writing d:\oihguv\mge_oihguv_sucks_b3_fix1 - Copy.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\oihguv\mge_oihguv_sucks_b3_fix1 - Copy.bsp', but we don't own that location. Allowing.
+0 seconds elapsed

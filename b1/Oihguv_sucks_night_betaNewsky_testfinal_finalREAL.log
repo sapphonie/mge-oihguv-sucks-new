@@ -1,0 +1,158 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading D:\oihguv\Oihguv_sucks_night_betaNewsky_testfinal_finalREAL.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate GameData file tf2_ficool2_lite.fgd
+Patching WVT material: maps/oihguv_sucks_night_betanewsky_testfinal_finalreal/winter/blendgrasstograss002_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky_testfinal_finalreal/nature/blendrockground007_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky_testfinal_finalreal/nature/blendgroundtograss007_nodetail_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky_testfinal_finalreal/nature/blendrockgroundwallforest_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky_testfinal_finalreal/nature/blendgroundtograss008_nodetail_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky_testfinal_finalreal/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky_testfinal_finalreal/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky_testfinal_finalreal/nature/blendgroundtograss001_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky_testfinal_finalreal/nature/blendgroundtograss005_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1678 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\oihguv\Oihguv_sucks_night_betaNewsky_testfinal_finalREAL.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_skylab_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (7553173 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+.10
+Compacting texture/material tables...
+Reduced 10352 texinfos to 6854
+Reduced 147 texdatas to 130 (3835 bytes to 2865)
+Writing D:\oihguv\Oihguv_sucks_night_betaNewsky_testfinal_finalREAL.bsp
+Wrote ZIP buffer, estimated size 180773, actual size 178951
+10 seconds elapsed
+
+
+
+12 threads
+reading d:\oihguv\Oihguv_sucks_night_betaNewsky_testfinal_finalREAL.bsp
+reading d:\oihguv\Oihguv_sucks_night_betaNewsky_testfinal_finalREAL.prt
+6156 portalclusters
+20769 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 142503 visible clusters (3.76%)
+Total clusters visible: 3789530
+Average clusters visible: 615
+Building PAS...
+Average clusters audible: 717
+visdatasize:1319408  compressed from 9554112
+writing d:\oihguv\Oihguv_sucks_night_betaNewsky_testfinal_finalREAL.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\oihguv\Oihguv_sucks_night_betaNewsky_testfinal_finalREAL.bsp
+21329 faces
+19 degenerate faces
+9784134 square feet [1408915328.00 square inches]
+847 Displacements
+440331 Square Feet [63407756.00 Square Inches]
+21310 patches before subdivision
+zero area child patch
+zero area child patch
+249024 patches after subdivision
+101 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 22739794, max 1148
+transfer lists: 173.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(700025, 452254, 378539)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(110012, 64486, 51183)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(21750, 11329, 8414)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4646, 2260, 1581)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1083, 494, 321)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(266, 117, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(70, 30, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(19, 8, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(6, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0714 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  56/1024         2688/49152    ( 5.5%) 
+brushes               4703/8192        56436/98304    (57.4%) 
+brushsides           36861/65536      294888/524288   (56.2%) 
+planes               26936/65536      538720/1310720  (41.1%) 
+vertexes             41245/65536      494940/786432   (62.9%) 
+nodes                12127/65536      388064/2097152  (18.5%) 
+texinfos              6854/12288      493488/884736   (55.8%) 
+texdata                130/2048         4160/65536    ( 6.3%) 
+dispinfos              847/0          149072/0        ( 0.0%) 
+disp_verts           34607/0          692140/0        ( 0.0%) 
+disp_tris            50624/0          101248/0        ( 0.0%) 
+disp_lmsamples     1178949/0         1178949/0        ( 0.0%) 
+faces                21329/65536     1194424/3670016  (32.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            13035/65536      729960/3670016  (19.9%) 
+leaves               12184/65536      389888/2097152  (18.6%) 
+leaffaces            26864/65536       53728/131072   (41.0%) 
+leafbrushes          14247/65536       28494/131072   (21.7%) 
+areas                   31/256           248/2048     (12.1%) 
+surfedges           156078/512000     624312/2048000  (30.5%) 
+edges                96381/256000     385524/1024000  (37.6%) 
+LDR worldlights        101/8192         8888/720896   ( 1.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2472/32768       24720/327680   ( 7.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         45675/65536       91350/131072   (69.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    12704428/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1319408/16777216 ( 7.9%) 
+entdata               [variable]       60967/393216   (15.5%) 
+LDR ambient table    12184/65536       48736/262144   (18.6%) 
+HDR ambient table    12184/65536       48736/262144   (18.6%) 
+LDR leaf ambient     61328/65536     1717184/1835008  (93.6%) VERY FULL!
+HDR leaf ambient     12184/65536      341152/1835008  (18.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/73220    ( 0.0%) 
+pakfile               [variable]      178951/0        ( 0.0%) 
+physics               [variable]     7553173/4194304  (180.1%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 61110
+Writing d:\oihguv\Oihguv_sucks_night_betaNewsky_testfinal_finalREAL.bsp
+1 minute, 48 seconds elapsed

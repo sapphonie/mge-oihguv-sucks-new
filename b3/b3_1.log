@@ -1,0 +1,67 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading d:\oihguv\b3_1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate GameData file tf2_ficool2_lite.fgd
+Patching WVT material: maps/b3_1/winter/blendgrasstograss002_wvt_patch
+Patching WVT material: maps/b3_1/nature/blendrockground007_wvt_patch
+Patching WVT material: maps/b3_1/nature/blendgroundtograss007_nodetail_wvt_patch
+Patching WVT material: maps/b3_1/nature/blendrockgroundwallforest_wvt_patch
+Patching WVT material: maps/b3_1/nature/blendgroundtograss008_nodetail_wvt_patch
+Patching WVT material: maps/b3_1/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/b3_1/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/b3_1/nature/blendgroundtograss001_wvt_patch
+Patching WVT material: maps/b3_1/nature/blendgroundtograss005_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2332 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\oihguv\b3_1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (7615637 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+.10
+Compacting texture/material tables...
+Reduced 10475 texinfos to 6885
+Reduced 149 texdatas to 131 (3425 bytes to 2790)
+Writing d:\oihguv\b3_1.bsp
+Wrote ZIP buffer, estimated size 5620, actual size 4334
+9 seconds elapsed
+
+
+
+12 threads
+reading d:\oihguv\b3_1.bsp
+reading d:\oihguv\b3_1.prt
+6186 portalclusters
+20880 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 142679 visible clusters (3.73%)
+Total clusters visible: 3820380
+Average clusters visible: 617
+Building PAS...
+Average clusters audible: 719
+visdatasize:1325340  compressed from 9600672
+writing d:\oihguv\b3_1.bsp
+7 seconds elapsed

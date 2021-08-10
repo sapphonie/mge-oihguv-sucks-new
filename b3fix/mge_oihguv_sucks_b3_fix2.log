@@ -1,0 +1,174 @@
+================== VBSP ==================
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading D:\oihguv\mge_oihguv_sucks_b3_fix2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate GameData file tf2_ficool2_lite.fgd
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/nature/blendrockground007_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/nature/blendgroundtograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9226.9 1366.0 -105.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 214767: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9065.4 1366.0 -105.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 214767: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1554 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\oihguv\mge_oihguv_sucks_b3_fix2.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (349841 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2579 texinfos to 1752
+Reduced 62 texdatas to 55 (1447 bytes to 1153)
+Writing D:\oihguv\mge_oihguv_sucks_b3_fix2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\oihguv\mge_oihguv_sucks_b3_fix2.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 2327, actual size 1845
+4 seconds elapsed
+
+================== VVIS ==================
+
+
+
+
+12 threads
+reading d:\oihguv\mge_oihguv_sucks_b3_fix2.bsp
+reading d:\oihguv\mge_oihguv_sucks_b3_fix2.prt
+ 793 portalclusters
+3104 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10826 visible clusters (2.94%)
+Total clusters visible: 367763
+Average clusters visible: 463
+Building PAS...
+Average clusters audible: 501
+visdatasize:111177  compressed from 164944
+writing d:\oihguv\mge_oihguv_sucks_b3_fix2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\oihguv\mge_oihguv_sucks_b3_fix2.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+================== VRAD ==================
+
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\oihguv\mge_oihguv_sucks_b3_fix2.bsp
+4676 faces
+4 degenerate faces
+940166 square feet [135384000.00 square inches]
+148 Displacements
+58383 Square Feet [8407189.00 Square Inches]
+4672 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+64888 patches after subdivision
+41 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5244222, max 687
+transfer lists:  40.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(178207, 101686, 99618)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29492, 14030, 11779)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5735, 2120, 1425)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1069, 326, 188)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(218, 53, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(43, 9, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(9, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0172 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                955/8192        11460/98304    (11.7%) 
+brushsides            7875/65536       63000/524288   (12.0%) 
+planes                8682/65536      173640/1310720  (13.2%) 
+vertexes             11058/65536      132696/786432   (16.9%) 
+nodes                 1518/65536       48576/2097152  ( 2.3%) 
+texinfos              1752/12288      126144/884736   (14.3%) 
+texdata                 55/2048         1760/65536    ( 2.7%) 
+dispinfos              148/0           26048/0        ( 0.0%) 
+disp_verts            6556/0          131120/0        ( 0.0%) 
+disp_tris             9632/0           19264/0        ( 0.0%) 
+disp_lmsamples      186680/0          186680/0        ( 0.0%) 
+faces                 4676/65536      261856/3670016  ( 7.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2838/65536      158928/3670016  ( 4.3%) 
+leaves                1523/65536       48736/2097152  ( 2.3%) 
+leaffaces             7205/65536       14410/131072   (11.0%) 
+leafbrushes           3204/65536        6408/131072   ( 4.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            35569/512000     142276/2048000  ( 6.9%) 
+edges                22725/256000      90900/1024000  ( 8.9%) 
+LDR worldlights         41/8192         3608/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            829/32768        8290/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15372/65536       30744/131072   (23.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2567144/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      111177/16777216 ( 0.7%) 
+entdata               [variable]       16836/393216   ( 4.3%) 
+LDR ambient table     1523/65536        6092/262144   ( 2.3%) 
+HDR ambient table     1523/65536        6092/262144   ( 2.3%) 
+LDR leaf ambient      7666/65536      214648/1835008  (11.7%) 
+HDR leaf ambient      1523/65536       42644/1835008  ( 2.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/6392     ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/17926    ( 0.0%) 
+pakfile               [variable]        1845/0        ( 0.0%) 
+physics               [variable]      349841/4194304  ( 8.3%) 
+physics terrain       [variable]       32290/1048576  ( 3.1%) 
+
+Level flags = 0
+
+Total triangle count: 14784
+Writing d:\oihguv\mge_oihguv_sucks_b3_fix2.bsp
+26 seconds elapsed

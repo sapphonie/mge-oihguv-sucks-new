@@ -1,0 +1,85 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading D:\oihguv\Oihguv_sucks_night_betaNewsky2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate GameData file tf2_ficool2_lite.fgd
+Patching WVT material: maps/oihguv_sucks_night_betanewsky2/winter/blendgrasstograss002_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky2/nature/blendrockground007_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky2/nature/blendgroundtograss007_nodetail_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky2/nature/blendrockgroundwallforest_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky2/nature/blendgroundtograss008_nodetail_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky2/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky2/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky2/nature/blendgroundtograss001_wvt_patch
+Patching WVT material: maps/oihguv_sucks_night_betanewsky2/nature/blendgroundtograss005_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1678 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\oihguv\Oihguv_sucks_night_betaNewsky2.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_night_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_night_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (7553173 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
+.10
+Compacting texture/material tables...
+Reduced 10352 texinfos to 6854
+Reduced 147 texdatas to 130 (3645 bytes to 2827)
+Writing D:\oihguv\Oihguv_sucks_night_betaNewsky2.bsp
+Wrote ZIP buffer, estimated size 6166, actual size 4880
+9 seconds elapsed
+
+
+
+12 threads
+reading d:\oihguv\Oihguv_sucks_night_betaNewsky2.bsp
+reading d:\oihguv\Oihguv_sucks_night_betaNewsky2.prt
+6156 portalclusters
+20769 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 142503 visible clusters (3.76%)
+Total clusters visible: 3789530
+Average clusters visible: 615
+Building PAS...
+Average clusters audible: 717
+visdatasize:1319408  compressed from 9554112
+writing d:\oihguv\Oihguv_sucks_night_betaNewsky2.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\oihguv\Oihguv_sucks_night_betaNewsky2.bsp
+21329 faces
+19 degenerate faces
+9784134 square feet [1408915328.00 square inches]
+847 Displacements
+440331 Square Feet [63407756.00 Square Inches]
+21310 patches before subdivision
+zero area child patch
+zero area child patch
+249024 patches after subdivision
+101 direct lights
+0...1...2...3...4...5...6...7..

@@ -1,0 +1,17 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading D:\oihguv\mge_oihguv_sucks_b3_fix2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate GameData file tf2_ficool2_lite.fgd
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/winter/blendgrasstograss002_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/nature/blendrockground007_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/nature/blendgroundtograss007_nodetail_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/nature/blendrockgroundwallforest_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/nature/blendgroundtograss008_nodetail_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/nature/blendgroundtograss001_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix2/nature/blendgroundtograss005_wvt_patch
+fixing up env_cubemap materials on brush sides...

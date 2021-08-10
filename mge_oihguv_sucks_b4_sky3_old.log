@@ -1,0 +1,184 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading D:\oihguv\mge_oihguv_sucks_b4_sky3.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate GameData file tf2_ficool2_lite.fgd
+Patching WVT material: maps/mge_oihguv_sucks_b4_sky3/winter/blendgrasstograss002_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b4_sky3/nature/blendrockground007_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b4_sky3/nature/blendgroundtograss007_nodetail_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b4_sky3/nature/blendrockgroundwallforest_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b4_sky3/nature/blendgroundtograss008_nodetail_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b4_sky3/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b4_sky3/brick/blendcobbletocobblesnow001_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b4_sky3/nature/blendgroundtograss001_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b4_sky3/nature/blendgroundtograss005_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_observer_point (-8704.00 -9760.00 -729.80) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 4096.0 784.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 3584.0 784.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 3072.0 784.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9728.0 4096.0 784.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0 3072.0 308.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0 3072.0 2212.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0 3072.0 -1120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0 4096.0 784.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2482 detail faces...done (1)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (7590496 bytes)
+Static prop models/props_gameplay/security_fence256_lower.mdl outside the map (3328.00, -745.00, 673.50)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (3328.00, -1840.00, 420.98)
+Static prop models/props_gameplay/security_fence_pole01.mdl outside the map (3328.00, -2320.00, 452.98)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (3329.00, -484.00, 420.98)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (3300.00, -256.00, 420.98)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (3328.00, -1584.00, 420.98)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (3328.00, -1328.00, 420.98)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (3328.00, -2096.00, 420.98)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (3044.00, -256.00, 420.98)
+Static prop models/props_2fort/sniper_fence02.mdl outside the map (2528.00, -1720.00, 688.00)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (3328.00, -1072.00, 420.98)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (3328.00, -816.00, 420.98)
+Static prop models/props_2fort/roof_metal003.mdl outside the map (3310.00, -849.00, 348.00)
+Static prop models/props_2fort/roof_metal003.mdl outside the map (3310.00, -947.00, 348.00)
+Static prop models/props_badlands/barrel01.mdl outside the map (3031.00, -315.00, 314.00)
+Static prop models/props_2fort/roof_metal003.mdl outside the map (2974.00, -290.00, 348.00)
+Static prop models/props_badlands/barrel02.mdl outside the map (3173.00, -336.00, 283.00)
+Static prop models/props_farm/drain_pipe001.mdl outside the map (2064.00, -1786.00, 160.00)
+Static prop models/props_badlands/barrel01.mdl outside the map (1884.00, -1344.00, 166.54)
+Static prop models/props_mining/conduit_outdoor512.mdl outside the map (2704.00, -272.00, 251.50)
+Static prop models/props_lights/light_cone_farm_32.mdl outside the map (3251.72, -6796.28, 925.42)
+Static prop models/props_spytech/security_camera.mdl outside the map (3460.17, -5103.31, 892.51)
+Static prop models/props_spytech/security_camera_bracket.mdl outside the map (3458.84, -5103.28, 892.44)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (2340.00, -5040.00, 649.24)
+Static prop models/props_gameplay/security_fence64.mdl outside the map (2340.00, -4980.00, 633.24)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (4508.00, -6766.00, 649.24)
+Static prop models/props_gameplay/security_fence64.mdl outside the map (4508.00, -6826.00, 633.24)
+Static prop models/props_lights/light_cone_farm_32.mdl outside the map (3616.28, -5011.72, 921.42)
+Static prop models/props_mining/factory_hatch001.mdl outside the map (3128.00, -4530.02, 868.00)
+Static prop models/props_farm/grain_elevator01.mdl outside the map (3010.21, -4535.92, 691.89)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (2683.24, -4509.72, 748.98)
+Static prop models/props_mining/conduit_outdoor384.mdl outside the map (2909.28, -4160.82, 576.45)
+Static prop models/props_2fort/chimney003.mdl outside the map (3936.00, -4912.00, 1010.00)
+Static prop models/props_2fort/roof_metal003.mdl outside the map (3457.81, -5105.12, 939.15)
+Static prop models/props_farm/vent001.mdl outside the map (4064.00, -6212.00, 1103.26)
+Static prop models/props_mining/factory_hatch001.mdl outside the map (3584.00, -7277.98, 776.00)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (4164.76, -7298.28, 748.98)
+Static prop models/props_lights/flood_light_base001.mdl outside the map (3983.60, -5408.00, 877.25)
+Static prop models/props_lights/flood_light_left001.mdl outside the map (3974.60, -5414.00, 878.65)
+Static prop models/props_lights/flood_light_right001.mdl outside the map (3992.60, -5414.00, 878.65)
+Static prop models/props_lights/lamp001.mdl outside the map (4432.00, -5648.00, 1072.00)
+Static prop models/props_2fort/chimney004.mdl outside the map (1804.57, -2869.00, 1024.30)
+Static prop models/props_2fort/window005.mdl outside the map (1744.25, -1900.91, 881.02)
+Static prop models/props_2fort/window005.mdl outside the map (1744.25, -1972.91, 881.02)
+Static prop models/props_farm/spawnroom_door_right.mdl outside the map (1746.00, -1746.25, 709.00)
+Static prop models/props_farm/wood_support001.mdl outside the map (1744.00, -2002.74, 631.97)
+Static prop models/props_farm/wood_support001.mdl outside the map (1744.00, -1886.74, 631.97)
+Static prop models/props_farm/wood_support001.mdl outside the map (1744.00, -1766.74, 631.97)
+Static prop models/props_farm/vent001.mdl outside the map (1784.00, -1616.25, 1120.00)
+Static prop models/props_mining/conveyor_belt.mdl outside the map (1540.19, -2476.25, 1134.00)
+Static prop models/props_2fort/roof_metal002.mdl outside the map (1831.00, -2115.25, 348.00)
+Static prop models/props_mining/factory_hatch001.mdl outside the map (1648.00, -1503.25, 903.23)
+Static prop models/props_vehicles/mining_car_metal.mdl outside the map (1648.00, -1267.65, 898.52)
+Static prop models/props_vehicles/mining_car_metal.mdl outside the map (1646.00, -1379.32, 887.33)
+Static prop models/props_lights/spotlight001a.mdl outside the map (4485.13, -12090.50, -1613.61)
+Static prop models/props_lights/spotlight001a.mdl outside the map (4453.13, -12090.50, -1613.61)
+Static prop models/props_lights/spotlight001a.mdl outside the map (4421.13, -12090.50, -1613.61)
+Static prop models/props_lights/spotlight001a.mdl outside the map (4803.87, -13353.50, -1613.61)
+Static prop models/props_lights/spotlight001a.mdl outside the map (4835.87, -13353.50, -1613.61)
+Static prop models/props_lights/spotlight001a.mdl outside the map (4867.87, -13353.50, -1613.61)
+Static prop models/props_lights/flood_light_left001.mdl outside the map (3900.23, -12088.90, -1860.34)
+Static prop models/props_lights/flood_light_right001.mdl outside the map (3918.23, -12088.90, -1860.34)
+Static prop models/props_lights/flood_light_base001.mdl outside the map (3909.00, -12082.00, -1862.30)
+Static prop models/props_lights/flood_light_left001.mdl outside the map (5387.58, -13355.20, -1860.34)
+Static prop models/props_lights/flood_light_right001.mdl outside the map (5369.58, -13355.20, -1860.34)
+Static prop models/props_lights/flood_light_base001.mdl outside the map (5378.81, -13362.10, -1862.30)
+Static prop models/props_vehicles/train_flatcar_container.mdl outside the map (4179.00, -12941.00, -2048.00)
+Static prop models/props_vehicles/train_flatcar_container.mdl outside the map (4174.00, -12930.00, -1899.00)
+Static prop models/props_gameplay/security_fence256_lower.mdl outside the map (6280.00, -753.00, 673.50)
+Static prop models/props_gameplay/security_fence256.mdl outside the map (6280.00, -1848.00, 420.98)
+Static prop models/props_gameplay/security_fence_pole01.mdl outside the map (6280.00, -2328.00, 452.98)

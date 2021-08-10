@@ -1,0 +1,179 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading d:\oihguv\mge_oihguv_sucks_b3_fix1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error: displacement found on a(n) func_detail entity - not supported (entity 2209, brush 0)
+
+
+
+12 threads
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.bsp
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+LoadPortals: couldn't read d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading d:\oihguv\mge_oihguv_sucks_b3_fix1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error: displacement found on a(n) func_detail entity - not supported (entity 2209, brush 0)
+
+
+
+12 threads
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.bsp
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+LoadPortals: couldn't read d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading d:\oihguv\mge_oihguv_sucks_b3_fix1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error: displacement found on a(n) func_detail entity - not supported (entity 2209, brush 0)
+
+
+
+12 threads
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.bsp
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+LoadPortals: couldn't read d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading d:\oihguv\mge_oihguv_sucks_b3_fix1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error: displacement found on a(n) func_detail entity - not supported (entity 2209, brush 0)
+
+
+
+12 threads
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.bsp
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+LoadPortals: couldn't read d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading d:\oihguv\mge_oihguv_sucks_b3_fix1.vmf
+Could not locate GameData file tf2_ficool2_lite.fgd
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix1/winter/blendgrasstograss002_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix1/nature/blendrockground007_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix1/nature/blendgroundtograss007_nodetail_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix1/nature/blendrockgroundwallforest_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix1/nature/blendgroundtograss008_nodetail_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix1/nature/blendgroundtograss008_wvt_patch
+Patching WVT material: maps/mge_oihguv_sucks_b3_fix1/nature/blendgroundtograss001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+
+
+
+12 threads
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.bsp
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+LoadPortals: couldn't read d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading d:\oihguv\mge_oihguv_sucks_b3_fix1.vmf
+Error: displacement found on a(n) func_detail entity - not supported (entity 559, brush 0)
+
+
+
+12 threads
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.bsp
+reading d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+LoadPortals: couldn't read d:\oihguv\mge_oihguv_sucks_b3_fix1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\oihguv\mge_oihguv_sucks_b3_fix1.bsp
+944 faces
+1 degenerate faces
+594637 square feet [85627728.00 square inches]
+95 Displacements
+27015 Square Feet [3890235.00 Square Inches]
+943 patches before subdivision
+zero area child patch
+zero area child patch
+9435 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 304376, max 270
+transfer lists:   2.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(501, 252, 97)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(54, 22, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                250/8192         3000/98304    ( 3.1%) 
+brushsides            1893/65536       15144/524288   ( 2.9%) 
+planes                2228/65536       44560/1310720  ( 3.4%) 
+vertexes              1933/65536       23196/786432   ( 2.9%) 
+nodes                  382/65536       12224/2097152  ( 0.6%) 
+texinfos               455/12288       32760/884736   ( 3.7%) 
+texdata                 27/2048          864/65536    ( 1.3%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            2375/0           47500/0        ( 0.0%) 
+disp_tris             3040/0            6080/0        ( 0.0%) 
+disp_lmsamples       86004/0           86004/0        ( 0.0%) 
+faces                  944/65536       52864/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              749/65536       41944/3670016  ( 1.1%) 
+leaves                 386/65536       12352/2097152  ( 0.6%) 
+leaffaces             1089/65536        2178/131072   ( 1.7%) 
+leafbrushes            606/65536        1212/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7547/512000      30188/2048000  ( 1.5%) 
+edges                 5024/256000      20096/1024000  ( 2.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            100/32768        1000/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2043/65536        4086/131072   ( 3.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      559468/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9664/16777216 ( 0.1%) 
+entdata               [variable]        1804/393216   ( 0.5%) 
+LDR ambient table      386/65536        1544/262144   ( 0.6%) 
+HDR ambient table      386/65536        1544/262144   ( 0.6%) 
+LDR leaf ambient       708/65536       19824/1835008  ( 1.1%) 
+HDR leaf ambient       386/65536       10808/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8198     ( 0.0%) 
+pakfile               [variable]         885/0        ( 0.0%) 
+physics               [variable]       91580/4194304  ( 2.2%) 
+physics terrain       [variable]       12667/1048576  ( 1.2%) 
+
+Level flags = 0
+
+Total triangle count: 2662
+Writing d:\oihguv\mge_oihguv_sucks_b3_fix1.bsp
+3 seconds elapsed

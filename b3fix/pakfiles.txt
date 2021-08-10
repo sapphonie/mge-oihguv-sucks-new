@@ -1,0 +1,32 @@
+materials/MGE/MGEthingy.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\MGE\MGEthingy.vmt
+materials/MGE/MGEthingy.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\MGE\MGEthingy.vtf
+materials/MGE/MGEthingy2.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\MGE\MGEthingy2.vmt
+materials/MGE/MGEthingy2.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\MGE\MGEthingy2.vtf
+materials/skybox/sky_yuki_01bk.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01bk.vmt
+materials/skybox/sky_yuki_01bk.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01bk.vtf
+materials/skybox/sky_yuki_01dn.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01dn.vmt
+materials/skybox/sky_yuki_01dn.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01dn.vtf
+materials/skybox/sky_yuki_01ft.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01ft.vmt
+materials/skybox/sky_yuki_01ft.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01ft.vtf
+materials/skybox/sky_yuki_01lf.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01lf.vmt
+materials/skybox/sky_yuki_01lf.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01lf.vtf
+materials/skybox/sky_yuki_01rt.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01rt.vmt
+materials/skybox/sky_yuki_01rt.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01rt.vtf
+materials/skybox/sky_yuki_01up.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01up.vmt
+materials/skybox/sky_yuki_01up.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01up.vtf

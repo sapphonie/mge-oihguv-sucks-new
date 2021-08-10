@@ -1,0 +1,111 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading d:\oihguv\b3\b3_15_fix.vmf
+Could not locate GameData file tf2_ficool2_lite.fgd
+Patching WVT material: maps/b3_15_fix/nature/blendgroundtograss007_nodetail_wvt_patch
+Patching WVT material: maps/b3_15_fix/nature/blendrockgroundwallforest_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\oihguv\b3\b3_15_fix.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (0) (194656 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1337 texinfos to 529
+Reduced 35 texdatas to 31 (824 bytes to 669)
+Writing d:\oihguv\b3\b3_15_fix.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\oihguv\b3\b3_15_fix.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1162, actual size 948
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\oihguv\b3\b3_15_fix.bsp
+reading d:\oihguv\b3\b3_15_fix.prt
+ 873 portalclusters
+3349 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading d:\oihguv\b3\b3_15_fix.vmf
+Could not locate GameData file tf2_ficool2_lite.fgd
+Patching WVT material: maps/b3_15_fix/nature/blendgroundtograss007_nodetail_wvt_patch
+Patching WVT material: maps/b3_15_fix/nature/blendrockgroundwallforest_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\oihguv\b3\b3_15_fix.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_yuki_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_yuki_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (194656 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1337 texinfos to 529
+Reduced 35 texdatas to 31 (824 bytes to 669)
+Writing d:\oihguv\b3\b3_15_fix.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\oihguv\b3\b3_15_fix.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1162, actual size 948
+7 seconds elapsed
+
+
+
+12 threads
+reading d:\oihguv\b3\b3_15_fix.bsp
+reading d:\oihguv\b3\b3_15_fix.prt
+ 873 portalclusters
+3349 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3....4.....5...86.....7...9.8.....
