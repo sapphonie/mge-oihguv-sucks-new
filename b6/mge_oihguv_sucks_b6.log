@@ -1,476 +1,11 @@
+================== VBSP ==================
 
 
 
-materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
-Loading D:\oihguv\mge_oihguv_sucks_b6.vmf
-Can't find surfaceprop metal for material METAL/IBEAM001B, using default
-Can't find surfaceprop metal for material METAL/IBEAM002, using default
-Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
-Can't find surfaceprop wood for material CP_MANOR/WOOD_FLOOR01, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BRIDGE001, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL002, using default
-Can't find surfaceprop wood for material WOOD/WALL020B, using default
-Can't find surfaceprop metal for material METAL/METALSTAIR001A, using default
-Can't find surfaceprop metal for material METAL/CHICKEN_WIRE001, using default
-Can't find surfaceprop metal for material METAL/METALDOOR001, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL001, using default
-Can't find surfaceprop metal for material METAL/WALL011G, using default
-Can't find surfaceprop metal for material METAL/WALL026, using default
-Can't find surfaceprop wood for material WOOD/WOOD_FLOOR001, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_10A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL002B, using default
-Can't find surfaceprop metal for material METAL/WALL015, using default
-Can't find surfaceprop metal for material METAL/WALL011E, using default
-Can't find surfaceprop concrete for material DEV/REFLECTIVITY_30B, using default
-Can't find surfaceprop metal for material METAL/FLOORPLATE01, using default
-Can't find surfaceprop metal for material METAL/IMETAL003, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL003, using default
-Can't find surfaceprop metal for material METAL/WALL015G, using default
-Can't find surfaceprop metal for material METAL/WALL014D, using default
-Can't find surfaceprop metal for material METAL/STEELDOOR001, using default
-Can't find surfaceprop metal for material METAL/WALL015H, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BEAM03, using default
-Can't find surfaceprop metal for material METAL/WALL014, using default
-Can't find surfaceprop metal for material METAL/WALL011D, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BRIDGE002, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW001A, using default
-Can't find surfaceprop grass for material WINTER/BLENDGRASSTOGRASS002, using default
-Can't find surfaceprop dirt for material NATURE/BLENDROCKGROUND007, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL012, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL013, using default
-Can't find surfaceprop metal for material METAL/WALL028, using default
-Can't find surfaceprop metal for material METAL/WALL025, using default
-Can't find surfaceprop metal for material METAL/WALL011F, using default
-Can't find surfaceprop metal for material VEHICLE/METALTRAIN001A, using default
-Can't find surfaceprop metal for material METAL/IMETAL005, using default
-Can't find surfaceprop metalgrate for material METAL/METALGRATE011A, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW001B, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS007_NODETAIL, using default
-Can't find surfaceprop dirt for material NATURE/BLENDROCKGROUNDWALLFOREST, using default
-Can't find surfaceprop metal for material METAL/WALL019D, using default
-Can't find surfaceprop metal for material METAL/WALL019, using default
-Can't find surfaceprop wood for material WOOD/WALL007A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_FLOOR002, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_FACADE_14C, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_FACADE_14B, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL008A, using default
-Can't find surfaceprop metal for material METAL/WALL016A, using default
-Can't find surfaceprop metal for material METAL/WALL016, using default
-Can't find surfaceprop metalpanel for material PROPS/HAZARDSTRIP001A, using default
-Can't find surfaceprop concrete for material DEV/REFLECTIVITY_10B, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL005A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BEAM02, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL005D, using default
-Can't find surfaceprop metal for material METAL/WALL015E, using default
-Can't find surfaceprop metal for material METAL/WALL021, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL006, using default
-Can't find surfaceprop metal for material METAL/WALL027B, using default
-Can't find surfaceprop metal for material METAL/METALTRIM02, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS008_NODETAIL, using default
-Can't find surfaceprop dirt for material WINTER/ROCKWALL014, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS008, using default
-Can't find surfaceprop metal for material METAL/METALFENCE001A, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL004, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_10B, using default
-Can't find surfaceprop metal for material METAL/IMETAL001B, using default
-Can't find surfaceprop snow for material BRICK/BLENDCOBBLETOCOBBLESNOW001, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW002C, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS001, using default
-Can't find surfaceprop dirt for material NATURE/DIRTGROUND001, using default
-Can't find surfaceprop dirt for material SWAMP/PROPS/FISHINGNET002, using default
-Can't find surfaceprop metal for material METAL/METALTRACK001, using default
-Can't find surfaceprop metal for material METAL/WALL027, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS005, using default
-Can't find surfaceprop metal for material METAL/WALL011A, using default
-Can't find surfaceprop wood for material WOOD/WALL020, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_03, using default
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\customConfig_tf2\materials
+Loading D:\oihguv\b6\mge_oihguv_sucks_b6.vmf
 ConVarRef mat_reduceparticles doesn't point to an existing ConVar
-Can't find surfaceprop glass for material LIGHTS/WHITE_FILL, using default
-Can't find surfaceprop metal for material METAL/IBEAM001, using default
-Can't find surfaceprop metal for material METAL/IBEAM003B, using default
-Patching WVT material: maps/mge_oihguv_sucks_b6/winter/blendgrasstograss002_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendrockground007_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss007_nodetail_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendrockgroundwallforest_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss008_nodetail_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss008_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/brick/blendcobbletocobblesnow001_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss001_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss005_wvt_patch
-fixing up env_cubemap materials on brush sides...
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
-Building Faces...done (0)
-Chop Details...done (0)
-Find Visible Detail Sides...
-Merged 2584 detail faces...done (0)
-Merging details...done (1)
-FixTjuncs...
-PruneNodes...
-WriteBSP...
-done (1)
-writing D:\oihguv\mge_oihguv_sucks_b6.prt...Building visibility clusters...
-done (0)
-*** Error: Skybox vtf files for skybox/sky_earlymorning_02_mirrornolod_ weren't compiled with the same size texture and/or same flags!
-Can't load skybox file skybox/sky_earlymorning_02_mirrornolod_ to build the default cubemap!
-*** Error: Skybox vtf files for skybox/sky_earlymorning_02_mirrornolod_ weren't compiled with the same size texture and/or same flags!
-Can't load skybox file skybox/sky_earlymorning_02_mirrornolod_ to build the default cubemap!
-Finding displacement neighbors...
-Found a displacement edge abutting multiple other edges.
-Finding lightmap sample positions...
-Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
-Building Physics collision data...
-WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
-done (1) (7682798 bytes)
-Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-..10
-Compacting texture/material tables...
-Reduced 7667 texinfos to 4234
-Reduced 195 texdatas to 156 (6646 bytes to 4790)
-Writing D:\oihguv\mge_oihguv_sucks_b6.bsp
-MSG_FILEWRITE - Filesystem was asked to write to 'D:\oihguv\mge_oihguv_sucks_b6.bsp', but we don't own that location. Allowing.
-Wrote ZIP buffer, estimated size 31235, actual size 23249
-7 seconds elapsed
-
-
-
-16 threads
-reading d:\oihguv\mge_oihguv_sucks_b6.bsp
-reading d:\oihguv\mge_oihguv_sucks_b6.prt
-5976 portalclusters
-20550 numportals
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7..
-
-
-materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
-Loading D:\oihguv\mge_oihguv_sucks_b6.vmf
-Can't find surfaceprop metal for material METAL/IBEAM001B, using default
-Can't find surfaceprop metal for material METAL/IBEAM002, using default
-Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
-Can't find surfaceprop wood for material CP_MANOR/WOOD_FLOOR01, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BRIDGE001, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL002, using default
-Can't find surfaceprop wood for material WOOD/WALL020B, using default
-Can't find surfaceprop metal for material METAL/METALSTAIR001A, using default
-Can't find surfaceprop metal for material METAL/CHICKEN_WIRE001, using default
-Can't find surfaceprop metal for material METAL/METALDOOR001, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL001, using default
-Can't find surfaceprop metal for material METAL/WALL011G, using default
-Can't find surfaceprop metal for material METAL/WALL026, using default
-Can't find surfaceprop wood for material WOOD/WOOD_FLOOR001, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_10A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL002B, using default
-Can't find surfaceprop metal for material METAL/WALL015, using default
-Can't find surfaceprop metal for material METAL/WALL011E, using default
-Can't find surfaceprop concrete for material DEV/REFLECTIVITY_30B, using default
-Can't find surfaceprop metal for material METAL/FLOORPLATE01, using default
-Can't find surfaceprop metal for material METAL/IMETAL003, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL003, using default
-Can't find surfaceprop metal for material METAL/WALL015G, using default
-Can't find surfaceprop metal for material METAL/WALL014D, using default
-Can't find surfaceprop metal for material METAL/STEELDOOR001, using default
-Can't find surfaceprop metal for material METAL/WALL015H, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BEAM03, using default
-Can't find surfaceprop metal for material METAL/WALL014, using default
-Can't find surfaceprop metal for material METAL/WALL011D, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BRIDGE002, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW001A, using default
-Can't find surfaceprop grass for material WINTER/BLENDGRASSTOGRASS002, using default
-Can't find surfaceprop dirt for material NATURE/BLENDROCKGROUND007, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL012, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL013, using default
-Can't find surfaceprop metal for material METAL/WALL028, using default
-Can't find surfaceprop metal for material METAL/WALL025, using default
-Can't find surfaceprop metal for material METAL/WALL011F, using default
-Can't find surfaceprop metal for material VEHICLE/METALTRAIN001A, using default
-Can't find surfaceprop metal for material METAL/IMETAL005, using default
-Can't find surfaceprop metalgrate for material METAL/METALGRATE011A, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW001B, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS007_NODETAIL, using default
-Can't find surfaceprop dirt for material NATURE/BLENDROCKGROUNDWALLFOREST, using default
-Can't find surfaceprop metal for material METAL/WALL019D, using default
-Can't find surfaceprop metal for material METAL/WALL019, using default
-Can't find surfaceprop wood for material WOOD/WALL007A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_FLOOR002, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_FACADE_14C, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_FACADE_14B, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL008A, using default
-Can't find surfaceprop metal for material METAL/WALL016A, using default
-Can't find surfaceprop metal for material METAL/WALL016, using default
-Can't find surfaceprop metalpanel for material PROPS/HAZARDSTRIP001A, using default
-Can't find surfaceprop concrete for material DEV/REFLECTIVITY_10B, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL005A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BEAM02, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL005D, using default
-Can't find surfaceprop metal for material METAL/WALL015E, using default
-Can't find surfaceprop metal for material METAL/WALL021, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL006, using default
-Can't find surfaceprop metal for material METAL/WALL027B, using default
-Can't find surfaceprop metal for material METAL/METALTRIM02, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS008_NODETAIL, using default
-Can't find surfaceprop dirt for material WINTER/ROCKWALL014, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS008, using default
-Can't find surfaceprop metal for material METAL/METALFENCE001A, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL004, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_10B, using default
-Can't find surfaceprop metal for material METAL/IMETAL001B, using default
-Can't find surfaceprop snow for material BRICK/BLENDCOBBLETOCOBBLESNOW001, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW002C, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS001, using default
-Can't find surfaceprop dirt for material NATURE/DIRTGROUND001, using default
-Can't find surfaceprop dirt for material SWAMP/PROPS/FISHINGNET002, using default
-Can't find surfaceprop metal for material METAL/METALTRACK001, using default
-Can't find surfaceprop metal for material METAL/WALL027, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS005, using default
-Can't find surfaceprop metal for material METAL/WALL011A, using default
-Can't find surfaceprop wood for material WOOD/WALL020, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_03, using default
-ConVarRef mat_reduceparticles doesn't point to an existing ConVar
-Can't find surfaceprop glass for material LIGHTS/WHITE_FILL, using default
-Can't find surfaceprop metal for material METAL/IBEAM001, using default
-Can't find surfaceprop metal for material METAL/IBEAM003B, using default
-Patching WVT material: maps/mge_oihguv_sucks_b6/winter/blendgrasstograss002_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendrockground007_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss007_nodetail_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendrockgroundwallforest_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss008_nodetail_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss008_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/brick/blendcobbletocobblesnow001_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss001_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss005_wvt_patch
-fixing up env_cubemap materials on brush sides...
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
-Building Faces...done (0)
-Chop Details...done (0)
-Find Visible Detail Sides...
-Merged 2584 detail faces...done (0)
-Merging details...done (1)
-FixTjuncs...
-PruneNodes...
-WriteBSP...
-done (1)
-writing D:\oihguv\mge_oihguv_sucks_b6.prt...Building visibility clusters...
-done (0)
-*** Error: Skybox vtf files for skybox/sky_earlymorning_02_mirrornolod_ weren't compiled with the same size texture and/or same flags!
-Can't load skybox file skybox/sky_earlymorning_02_mirrornolod_ to build the default cubemap!
-*** Error: Skybox vtf files for skybox/sky_earlymorning_02_mirrornolod_ weren't compiled with the same size texture and/or same flags!
-Can't load skybox file skybox/sky_earlymorning_02_mirrornolod_ to build the default cubemap!
-Finding displacement neighbors...
-Found a displacement edge abutting multiple other edges.
-Finding lightmap sample positions...
-Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
-Building Physics collision data...
-WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
-done (1) (7682798 bytes)
-Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-..10
-Compacting texture/material tables...
-Reduced 7667 texinfos to 4234
-Reduced 195 texdatas to 156 (6646 bytes to 4790)
-Writing D:\oihguv\mge_oihguv_sucks_b6.bsp
-MSG_FILEWRITE - Filesystem was asked to write to 'D:\oihguv\mge_oihguv_sucks_b6.bsp', but we don't own that location. Allowing.
-Wrote ZIP buffer, estimated size 31235, actual size 23249
-8 seconds elapsed
-
-
-
-16 threads
-reading d:\oihguv\mge_oihguv_sucks_b6.bsp
-reading d:\oihguv\mge_oihguv_sucks_b6.prt
-5976 portalclusters
-20550 numportals
-0...1...2...3...4...5...6...7...8...9...10Optimized: 85531 visible clusters (2.82%)
-Total clusters visible: 3028091
-Average clusters visible: 506
-Building PAS...
-Average clusters audible: 566
-visdatasize:1082483  compressed from 8987904
-writing d:\oihguv\mge_oihguv_sucks_b6.bsp
-MSG_FILEWRITE - Filesystem was asked to write to 'd:\oihguv\mge_oihguv_sucks_b6.bsp', but we don't own that location. Allowing.
-2 seconds elapsed
-
-
-
-[Reading texlights from 'lights.rad']
-[56 texlights parsed from 'lights.rad']
-
-Loading d:\oihguv\mge_oihguv_sucks_b6.bsp
-20785 faces
-19 degenerate faces
-10495377 square feet [1511334272.00 square inches]
-922 Displacements
-463478 Square Feet [66740852.00 Square Inches]
-20766 patches before subdivision
-20766 patches after subdivision
-223 direct lights
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2053129, max 832
-transfer lists:  15.7 megs
-0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(110198, 69748, 44783)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14733, 8179, 4322)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2590, 1348, 608)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(530, 268, 106)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(124, 64, 22)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(33, 17, 5)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(9, 5, 1)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 1, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
-Build Patch/Sample Hash Table(s).....Done<0.0510 sec>
-0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
-Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
-24 of 120 (20% of) surface lights went in leaf ambient cubes.
-0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
-Ready to Finish
-
-Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
-------------       ---------------  ---------------  -------- 
-models                  56/1024         2688/49152    ( 5.5%) 
-brushes               4724/8192        56688/98304    (57.7%) 
-brushsides           38650/65536      309200/524288   (59.0%) 
-planes               31612/65536      632240/1310720  (48.2%) 
-vertexes             41216/65536      494592/786432   (62.9%) 
-nodes                11401/65536      364832/2097152  (17.4%) 
-texinfos              4234/12288      304848/884736   (34.5%) 
-texdata                156/2048         4992/65536    ( 7.6%) 
-dispinfos              922/0          162272/0        ( 0.0%) 
-disp_verts           35810/0          716200/0        ( 0.0%) 
-disp_tris            51872/0          103744/0        ( 0.0%) 
-disp_lmsamples     1258985/0         1258985/0        ( 0.0%) 
-faces                20785/65536     1163960/3670016  (31.7%) 
-hdr faces                0/65536           0/3670016  ( 0.0%) 
-origfaces            12653/65536      708568/3670016  (19.3%) 
-leaves               11458/65536      366656/2097152  (17.5%) 
-leaffaces            26382/65536       52764/131072   (40.3%) 
-leafbrushes          13867/65536       27734/131072   (21.2%) 
-areas                   32/256           256/2048     (12.5%) 
-surfedges           152644/512000     610576/2048000  (29.8%) 
-edges                94155/256000     376620/1024000  (36.8%) 
-LDR worldlights        223/8192        19624/720896   ( 2.7%) 
-HDR worldlights          0/8192            0/720896   ( 0.0%) 
-leafwaterdata            0/32768           0/393216   ( 0.0%) 
-waterstrips           2598/32768       25980/327680   ( 7.9%) 
-waterverts               0/65536           0/786432   ( 0.0%) 
-waterindices         47049/65536       94098/131072   (71.8%) 
-cubemapsamples          29/1024          464/16384    ( 2.8%) 
-overlays                 0/512             0/180224   ( 0.0%) 
-LDR lightdata         [variable]    11880116/0        ( 0.0%) 
-HDR lightdata         [variable]           0/0        ( 0.0%) 
-visdata               [variable]     1082483/16777216 ( 6.5%) 
-entdata               [variable]       59772/393216   (15.2%) 
-LDR ambient table    11458/65536       45832/262144   (17.5%) 
-HDR ambient table    11458/65536       45832/262144   (17.5%) 
-LDR leaf ambient     62858/65536     1760024/1835008  (95.9%) VERY FULL!
-HDR leaf ambient     11458/65536      320824/1835008  (17.5%) 
-occluders                0/0               0/0        ( 0.0%) 
-occluder polygons        0/0               0/0        ( 0.0%) 
-occluder vert ind        0/0               0/0        ( 0.0%) 
-detail props          [variable]           1/137276   ( 0.0%) 
-dtl prp lght          [variable]           1/4        (25.0%) 
-HDR dtl prp lght      [variable]           1/4        (25.0%) 
-static props          [variable]           1/70380    ( 0.0%) 
-pakfile               [variable]       23249/0        ( 0.0%) 
-physics               [variable]     7682798/4194304  (183.2%) VERY FULL!
-physics terrain       [variable]           0/1048576  ( 0.0%) 
-
-Level flags = 0
-
-Total triangle count: 60145
-Writing d:\oihguv\mge_oihguv_sucks_b6.bsp
-1 minute, 8 seconds elapsed
-
-
-
-materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
-Loading D:\oihguv\mge_oihguv_sucks_b6.vmf
-Can't find surfaceprop metal for material METAL/IBEAM001B, using default
-Can't find surfaceprop metal for material METAL/IBEAM002, using default
-Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
-Can't find surfaceprop wood for material CP_MANOR/WOOD_FLOOR01, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BRIDGE001, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL002, using default
-Can't find surfaceprop wood for material WOOD/WALL020B, using default
-Can't find surfaceprop metal for material METAL/METALSTAIR001A, using default
-Can't find surfaceprop metal for material METAL/CHICKEN_WIRE001, using default
-Can't find surfaceprop metal for material METAL/METALDOOR001, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL001, using default
-Can't find surfaceprop metal for material METAL/WALL011G, using default
-Can't find surfaceprop metal for material METAL/WALL026, using default
-Can't find surfaceprop wood for material WOOD/WOOD_FLOOR001, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_10A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL002B, using default
-Can't find surfaceprop metal for material METAL/WALL015, using default
-Can't find surfaceprop metal for material METAL/WALL011E, using default
-Can't find surfaceprop concrete for material DEV/REFLECTIVITY_30B, using default
-Can't find surfaceprop metal for material METAL/FLOORPLATE01, using default
-Can't find surfaceprop metal for material METAL/IMETAL003, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL003, using default
-Can't find surfaceprop metal for material METAL/WALL015G, using default
-Can't find surfaceprop metal for material METAL/WALL014D, using default
-Can't find surfaceprop metal for material METAL/STEELDOOR001, using default
-Can't find surfaceprop metal for material METAL/WALL015H, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BEAM03, using default
-Can't find surfaceprop metal for material METAL/WALL014, using default
-Can't find surfaceprop metal for material METAL/WALL011D, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BRIDGE002, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW001A, using default
-Can't find surfaceprop grass for material WINTER/BLENDGRASSTOGRASS002, using default
-Can't find surfaceprop dirt for material NATURE/BLENDROCKGROUND007, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL012, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL013, using default
-Can't find surfaceprop metal for material METAL/WALL028, using default
-Can't find surfaceprop metal for material METAL/WALL025, using default
-Can't find surfaceprop metal for material METAL/WALL011F, using default
-Can't find surfaceprop metal for material VEHICLE/METALTRAIN001A, using default
-Can't find surfaceprop metal for material METAL/IMETAL005, using default
-Can't find surfaceprop metalgrate for material METAL/METALGRATE011A, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW001B, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS007_NODETAIL, using default
-Can't find surfaceprop dirt for material NATURE/BLENDROCKGROUNDWALLFOREST, using default
-Can't find surfaceprop metal for material METAL/WALL019D, using default
-Can't find surfaceprop metal for material METAL/WALL019, using default
-Can't find surfaceprop wood for material WOOD/WALL007A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_FLOOR002, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_FACADE_14C, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_FACADE_14B, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL008A, using default
-Can't find surfaceprop metal for material METAL/WALL016A, using default
-Can't find surfaceprop metal for material METAL/WALL016, using default
-Can't find surfaceprop metalpanel for material PROPS/HAZARDSTRIP001A, using default
-Can't find surfaceprop concrete for material DEV/REFLECTIVITY_10B, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL005A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BEAM02, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL005D, using default
-Can't find surfaceprop metal for material METAL/WALL015E, using default
-Can't find surfaceprop metal for material METAL/WALL021, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL006, using default
-Can't find surfaceprop metal for material METAL/WALL027B, using default
-Can't find surfaceprop metal for material METAL/METALTRIM02, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS008_NODETAIL, using default
-Can't find surfaceprop dirt for material WINTER/ROCKWALL014, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS008, using default
-Can't find surfaceprop metal for material METAL/METALFENCE001A, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL004, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_10B, using default
-Can't find surfaceprop metal for material METAL/IMETAL001B, using default
-Can't find surfaceprop snow for material BRICK/BLENDCOBBLETOCOBBLESNOW001, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW002C, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS001, using default
-Can't find surfaceprop dirt for material NATURE/DIRTGROUND001, using default
-Can't find surfaceprop dirt for material SWAMP/PROPS/FISHINGNET002, using default
-Can't find surfaceprop metal for material METAL/METALTRACK001, using default
-Can't find surfaceprop metal for material METAL/WALL027, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS005, using default
-Can't find surfaceprop metal for material METAL/WALL011A, using default
-Can't find surfaceprop wood for material WOOD/WALL020, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_03, using default
-ConVarRef mat_reduceparticles doesn't point to an existing ConVar
-Can't find surfaceprop glass for material LIGHTS/WHITE_FILL, using default
-Can't find surfaceprop metal for material METAL/IBEAM001, using default
-Can't find surfaceprop metal for material METAL/IBEAM003B, using default
+Could not locate GameData file tf2_ficool2_lite.fgd
 Patching WVT material: maps/mge_oihguv_sucks_b6/winter/blendgrasstograss002_wvt_patch
 Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendrockground007_wvt_patch
 Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss007_nodetail_wvt_patch
@@ -486,282 +21,47 @@ Building Faces...done (0)
 Chop Details...done (0)
 Find Visible Detail Sides...
 Merged 2584 detail faces...done (1)
-Merging details...done (0)
+Merging details...done (1)
 FixTjuncs...
 PruneNodes...
 WriteBSP...
 done (1)
-writing D:\oihguv\mge_oihguv_sucks_b6.prt...Building visibility clusters...
+writing D:\oihguv\b6\mge_oihguv_sucks_b6.prt...Building visibility clusters...
 done (0)
-*** Error: Skybox vtf files for skybox/sky_twilight_02_mirror_nolod_ weren't compiled with the same size texture and/or same flags!
-Can't load skybox file skybox/sky_twilight_02_mirror_nolod_ to build the default cubemap!
-*** Error: Skybox vtf files for skybox/sky_twilight_02_mirror_nolod_ weren't compiled with the same size texture and/or same flags!
-Can't load skybox file skybox/sky_twilight_02_mirror_nolod_ to build the default cubemap!
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_twilight_02_fix*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_twilight_02_fix*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
 Finding displacement neighbors...
 Found a displacement edge abutting multiple other edges.
 Finding lightmap sample positions...
 Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
 Building Physics collision data...
 WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
-done (1) (7682798 bytes)
+done (2) (7682864 bytes)
 Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
 Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
 Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
 Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
 ..10
 Compacting texture/material tables...
-Reduced 7667 texinfos to 4234
-Reduced 195 texdatas to 156 (6646 bytes to 4790)
-Writing D:\oihguv\mge_oihguv_sucks_b6.bsp
-MSG_FILEWRITE - Filesystem was asked to write to 'D:\oihguv\mge_oihguv_sucks_b6.bsp', but we don't own that location. Allowing.
-Wrote ZIP buffer, estimated size 31235, actual size 23249
-7 seconds elapsed
+Reduced 7670 texinfos to 4237
+Reduced 195 texdatas to 157 (6646 bytes to 4811)
+Writing D:\oihguv\b6\mge_oihguv_sucks_b6.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\oihguv\b6\mge_oihguv_sucks_b6.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 3495759, actual size 3479733
+9 seconds elapsed
 
+================== VVIS ==================
 
-
-16 threads
-reading d:\oihguv\mge_oihguv_sucks_b6.bsp
-reading d:\oihguv\mge_oihguv_sucks_b6.prt
-5976 portalclusters
-20550 numportals
-0...1...2...3...4...5...6...7...8...9...10Optimized: 85531 visible clusters (2.82%)
-Total clusters visible: 3028091
-Average clusters visible: 506
-Building PAS...
-Average clusters audible: 566
-visdatasize:1082483  compressed from 8987904
-writing d:\oihguv\mge_oihguv_sucks_b6.bsp
-MSG_FILEWRITE - Filesystem was asked to write to 'd:\oihguv\mge_oihguv_sucks_b6.bsp', but we don't own that location. Allowing.
-2 seconds elapsed
-
-
-
-[Reading texlights from 'lights.rad']
-[56 texlights parsed from 'lights.rad']
-
-Loading d:\oihguv\mge_oihguv_sucks_b6.bsp
-20785 faces
-19 degenerate faces
-10495377 square feet [1511334272.00 square inches]
-922 Displacements
-463478 Square Feet [66740852.00 Square Inches]
-20766 patches before subdivision
-20766 patches after subdivision
-223 direct lights
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2053129, max 832
-transfer lists:  15.7 megs
-0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(62804, 34072, 29843)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(7682, 3736, 2792)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1401, 661, 420)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(303, 144, 79)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(83, 39, 18)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(24, 11, 4)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(7, 3, 1)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(2, 1, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
-Build Patch/Sample Hash Table(s).....Done<0.0508 sec>
-0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
-Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
-24 of 120 (20% of) surface lights went in leaf ambient cubes.
-0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
-Ready to Finish
-
-Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
-------------       ---------------  ---------------  -------- 
-models                  56/1024         2688/49152    ( 5.5%) 
-brushes               4724/8192        56688/98304    (57.7%) 
-brushsides           38650/65536      309200/524288   (59.0%) 
-planes               31612/65536      632240/1310720  (48.2%) 
-vertexes             41216/65536      494592/786432   (62.9%) 
-nodes                11401/65536      364832/2097152  (17.4%) 
-texinfos              4234/12288      304848/884736   (34.5%) 
-texdata                156/2048         4992/65536    ( 7.6%) 
-dispinfos              922/0          162272/0        ( 0.0%) 
-disp_verts           35810/0          716200/0        ( 0.0%) 
-disp_tris            51872/0          103744/0        ( 0.0%) 
-disp_lmsamples     1258985/0         1258985/0        ( 0.0%) 
-faces                20785/65536     1163960/3670016  (31.7%) 
-hdr faces                0/65536           0/3670016  ( 0.0%) 
-origfaces            12653/65536      708568/3670016  (19.3%) 
-leaves               11458/65536      366656/2097152  (17.5%) 
-leaffaces            26382/65536       52764/131072   (40.3%) 
-leafbrushes          13867/65536       27734/131072   (21.2%) 
-areas                   32/256           256/2048     (12.5%) 
-surfedges           152644/512000     610576/2048000  (29.8%) 
-edges                94155/256000     376620/1024000  (36.8%) 
-LDR worldlights        223/8192        19624/720896   ( 2.7%) 
-HDR worldlights          0/8192            0/720896   ( 0.0%) 
-leafwaterdata            0/32768           0/393216   ( 0.0%) 
-waterstrips           2598/32768       25980/327680   ( 7.9%) 
-waterverts               0/65536           0/786432   ( 0.0%) 
-waterindices         47049/65536       94098/131072   (71.8%) 
-cubemapsamples          29/1024          464/16384    ( 2.8%) 
-overlays                 0/512             0/180224   ( 0.0%) 
-LDR lightdata         [variable]    11880116/0        ( 0.0%) 
-HDR lightdata         [variable]           0/0        ( 0.0%) 
-visdata               [variable]     1082483/16777216 ( 6.5%) 
-entdata               [variable]       59255/393216   (15.1%) 
-LDR ambient table    11458/65536       45832/262144   (17.5%) 
-HDR ambient table    11458/65536       45832/262144   (17.5%) 
-LDR leaf ambient     62911/65536     1761508/1835008  (96.0%) VERY FULL!
-HDR leaf ambient     11458/65536      320824/1835008  (17.5%) 
-occluders                0/0               0/0        ( 0.0%) 
-occluder polygons        0/0               0/0        ( 0.0%) 
-occluder vert ind        0/0               0/0        ( 0.0%) 
-detail props          [variable]           1/137276   ( 0.0%) 
-dtl prp lght          [variable]           1/4        (25.0%) 
-HDR dtl prp lght      [variable]           1/4        (25.0%) 
-static props          [variable]           1/70380    ( 0.0%) 
-pakfile               [variable]       23249/0        ( 0.0%) 
-physics               [variable]     7682798/4194304  (183.2%) VERY FULL!
-physics terrain       [variable]           0/1048576  ( 0.0%) 
-
-Level flags = 0
-
-Total triangle count: 60145
-Writing d:\oihguv\mge_oihguv_sucks_b6.bsp
-1 minute, 8 seconds elapsed
-
-
-
-materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
-Loading D:\oihguv\mge_oihguv_sucks_b6.vmf
-Can't find surfaceprop metal for material METAL/IBEAM001B, using default
-Can't find surfaceprop metal for material METAL/IBEAM002, using default
-Can't find surfaceprop default_silent for material TOOLS/TOOLSSKYBOX, using default
-Can't find surfaceprop wood for material CP_MANOR/WOOD_FLOOR01, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BRIDGE001, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL002, using default
-Can't find surfaceprop wood for material WOOD/WALL020B, using default
-Can't find surfaceprop metal for material METAL/METALSTAIR001A, using default
-Can't find surfaceprop metal for material METAL/CHICKEN_WIRE001, using default
-Can't find surfaceprop metal for material METAL/METALDOOR001, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL001, using default
-Can't find surfaceprop metal for material METAL/WALL011G, using default
-Can't find surfaceprop metal for material METAL/WALL026, using default
-Can't find surfaceprop wood for material WOOD/WOOD_FLOOR001, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_10A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL002B, using default
-Can't find surfaceprop metal for material METAL/WALL015, using default
-Can't find surfaceprop metal for material METAL/WALL011E, using default
-Can't find surfaceprop concrete for material DEV/REFLECTIVITY_30B, using default
-Can't find surfaceprop metal for material METAL/FLOORPLATE01, using default
-Can't find surfaceprop metal for material METAL/IMETAL003, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL003, using default
-Can't find surfaceprop metal for material METAL/WALL015G, using default
-Can't find surfaceprop metal for material METAL/WALL014D, using default
-Can't find surfaceprop metal for material METAL/STEELDOOR001, using default
-Can't find surfaceprop metal for material METAL/WALL015H, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BEAM03, using default
-Can't find surfaceprop metal for material METAL/WALL014, using default
-Can't find surfaceprop metal for material METAL/WALL011D, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BRIDGE002, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW001A, using default
-Can't find surfaceprop grass for material WINTER/BLENDGRASSTOGRASS002, using default
-Can't find surfaceprop dirt for material NATURE/BLENDROCKGROUND007, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL012, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL013, using default
-Can't find surfaceprop metal for material METAL/WALL028, using default
-Can't find surfaceprop metal for material METAL/WALL025, using default
-Can't find surfaceprop metal for material METAL/WALL011F, using default
-Can't find surfaceprop metal for material VEHICLE/METALTRAIN001A, using default
-Can't find surfaceprop metal for material METAL/IMETAL005, using default
-Can't find surfaceprop metalgrate for material METAL/METALGRATE011A, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW001B, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS007_NODETAIL, using default
-Can't find surfaceprop dirt for material NATURE/BLENDROCKGROUNDWALLFOREST, using default
-Can't find surfaceprop metal for material METAL/WALL019D, using default
-Can't find surfaceprop metal for material METAL/WALL019, using default
-Can't find surfaceprop wood for material WOOD/WALL007A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_FLOOR002, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_FACADE_14C, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_FACADE_14B, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL008A, using default
-Can't find surfaceprop metal for material METAL/WALL016A, using default
-Can't find surfaceprop metal for material METAL/WALL016, using default
-Can't find surfaceprop metalpanel for material PROPS/HAZARDSTRIP001A, using default
-Can't find surfaceprop concrete for material DEV/REFLECTIVITY_10B, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL005A, using default
-Can't find surfaceprop wood for material WOOD/WOOD_BEAM02, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL005D, using default
-Can't find surfaceprop metal for material METAL/WALL015E, using default
-Can't find surfaceprop metal for material METAL/WALL021, using default
-Can't find surfaceprop wood for material WOOD/WOOD_WALL006, using default
-Can't find surfaceprop metal for material METAL/WALL027B, using default
-Can't find surfaceprop metal for material METAL/METALTRIM02, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS008_NODETAIL, using default
-Can't find surfaceprop dirt for material WINTER/ROCKWALL014, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS008, using default
-Can't find surfaceprop metal for material METAL/METALFENCE001A, using default
-Can't find surfaceprop dirt for material NATURE/ROCKWALL004, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_10B, using default
-Can't find surfaceprop metal for material METAL/IMETAL001B, using default
-Can't find surfaceprop snow for material BRICK/BLENDCOBBLETOCOBBLESNOW001, using default
-Can't find surfaceprop glass for material GLASS/GLASSWINDOW002C, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS001, using default
-Can't find surfaceprop dirt for material NATURE/DIRTGROUND001, using default
-Can't find surfaceprop dirt for material SWAMP/PROPS/FISHINGNET002, using default
-Can't find surfaceprop metal for material METAL/METALTRACK001, using default
-Can't find surfaceprop metal for material METAL/WALL027, using default
-Can't find surfaceprop dirt for material NATURE/BLENDGROUNDTOGRASS005, using default
-Can't find surfaceprop metal for material METAL/WALL011A, using default
-Can't find surfaceprop wood for material WOOD/WALL020, using default
-Can't find surfaceprop wood for material WOOD/GRAIN_ELEVATOR_SILO_03, using default
-ConVarRef mat_reduceparticles doesn't point to an existing ConVar
-Can't find surfaceprop glass for material LIGHTS/WHITE_FILL, using default
-Can't find surfaceprop metal for material METAL/IBEAM001, using default
-Can't find surfaceprop metal for material METAL/IBEAM003B, using default
-Patching WVT material: maps/mge_oihguv_sucks_b6/winter/blendgrasstograss002_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendrockground007_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss007_nodetail_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendrockgroundwallforest_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss008_nodetail_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss008_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/brick/blendcobbletocobblesnow001_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss001_wvt_patch
-Patching WVT material: maps/mge_oihguv_sucks_b6/nature/blendgroundtograss005_wvt_patch
-fixing up env_cubemap materials on brush sides...
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
-Building Faces...done (0)
-Chop Details...done (0)
-Find Visible Detail Sides...
-Merged 2584 detail faces...done (1)
-Merging details...done (0)
-FixTjuncs...
-PruneNodes...
-WriteBSP...
-done (1)
-writing D:\oihguv\mge_oihguv_sucks_b6.prt...Building visibility clusters...
-done (0)
-*** Error: Skybox vtf files for skybox/sky_twilight_02_mirror_nolod_ weren't compiled with the same size texture and/or same flags!
-Can't load skybox file skybox/sky_twilight_02_mirror_nolod_ to build the default cubemap!
-*** Error: Skybox vtf files for skybox/sky_twilight_02_mirror_nolod_ weren't compiled with the same size texture and/or same flags!
-Can't load skybox file skybox/sky_twilight_02_mirror_nolod_ to build the default cubemap!
-Finding displacement neighbors...
-Found a displacement edge abutting multiple other edges.
-Finding lightmap sample positions...
-Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
-Building Physics collision data...
-WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
-done (1) (7682798 bytes)
-Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-Material NATURE/BLENDGROUNDTOGRASS008 uses unknown detail object type tf_forest_grass!
-..10
-Compacting texture/material tables...
-Reduced 7667 texinfos to 4234
-Reduced 195 texdatas to 156 (6646 bytes to 4790)
-Writing D:\oihguv\mge_oihguv_sucks_b6.bsp
-MSG_FILEWRITE - Filesystem was asked to write to 'D:\oihguv\mge_oihguv_sucks_b6.bsp', but we don't own that location. Allowing.
-Wrote ZIP buffer, estimated size 31235, actual size 23249
-7 seconds elapsed
 
 
 
 16 threads
-reading d:\oihguv\mge_oihguv_sucks_b6.bsp
-reading d:\oihguv\mge_oihguv_sucks_b6.prt
+reading d:\oihguv\b6\mge_oihguv_sucks_b6.bsp
+reading d:\oihguv\b6\mge_oihguv_sucks_b6.prt
 5976 portalclusters
 20550 numportals
 0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 9181 visible clusters (0.44%)
@@ -770,16 +70,19 @@ Average clusters visible: 351
 Building PAS...
 Average clusters audible: 565
 visdatasize:1055019  compressed from 8987904
-writing d:\oihguv\mge_oihguv_sucks_b6.bsp
-MSG_FILEWRITE - Filesystem was asked to write to 'd:\oihguv\mge_oihguv_sucks_b6.bsp', but we don't own that location. Allowing.
-38 minutes, 23 seconds elapsed
+writing d:\oihguv\b6\mge_oihguv_sucks_b6.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\oihguv\b6\mge_oihguv_sucks_b6.bsp', but we don't own that location. Allowing.
+38 minutes, 45 seconds elapsed
+
+================== VRAD ==================
+
 
 
 
 [Reading texlights from 'lights.rad']
 [56 texlights parsed from 'lights.rad']
 
-Loading d:\oihguv\mge_oihguv_sucks_b6.bsp
+Loading d:\oihguv\b6\mge_oihguv_sucks_b6.bsp
 20785 faces
 19 degenerate faces
 10495377 square feet [1511334272.00 square inches]
@@ -794,19 +97,19 @@ zero area child patch
 3199 direct lights
 0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 17745701, max 951
 transfer lists: 135.4 megs
-0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(524650, 272750, 229037)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(66028, 30903, 22115)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11980, 5420, 3325)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2682, 1220, 649)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(711, 328, 150)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(210, 99, 39)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(67, 32, 11)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(23, 11, 3)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
-Build Patch/Sample Hash Table(s).....Done<0.0505 sec>
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(640212, 329842, 289442)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(98489, 44100, 34712)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20122, 8312, 5842)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4823, 1886, 1192)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1314, 499, 282)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(394, 148, 75)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(128, 47, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(44, 16, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(16, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0538 sec>
 0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
 Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
 3096 of 3096 (100% of) surface lights went in leaf ambient cubes.
@@ -821,8 +124,8 @@ brushsides           38650/65536      309200/524288   (59.0%)
 planes               31612/65536      632240/1310720  (48.2%) 
 vertexes             41216/65536      494592/786432   (62.9%) 
 nodes                11401/65536      364832/2097152  (17.4%) 
-texinfos              4234/12288      304848/884736   (34.5%) 
-texdata                156/2048         4992/65536    ( 7.6%) 
+texinfos              4237/12288      305064/884736   (34.5%) 
+texdata                157/2048         5024/65536    ( 7.7%) 
 dispinfos              922/0          162272/0        ( 0.0%) 
 disp_verts           35810/0          716200/0        ( 0.0%) 
 disp_tris            51872/0          103744/0        ( 0.0%) 
@@ -844,13 +147,13 @@ waterverts               0/65536           0/786432   ( 0.0%)
 waterindices         47049/65536       94098/131072   (71.8%) 
 cubemapsamples          29/1024          464/16384    ( 2.8%) 
 overlays                 0/512             0/180224   ( 0.0%) 
-LDR lightdata         [variable]    11880116/0        ( 0.0%) 
+LDR lightdata         [variable]    11880244/0        ( 0.0%) 
 HDR lightdata         [variable]           0/0        ( 0.0%) 
 visdata               [variable]     1055019/16777216 ( 6.3%) 
-entdata               [variable]       59255/393216   (15.1%) 
+entdata               [variable]       59245/393216   (15.1%) 
 LDR ambient table    11458/65536       45832/262144   (17.5%) 
 HDR ambient table    11458/65536       45832/262144   (17.5%) 
-LDR leaf ambient     62829/65536     1759212/1835008  (95.9%) VERY FULL!
+LDR leaf ambient     62756/65536     1757168/1835008  (95.8%) VERY FULL!
 HDR leaf ambient     11458/65536      320824/1835008  (17.5%) 
 occluders                0/0               0/0        ( 0.0%) 
 occluder polygons        0/0               0/0        ( 0.0%) 
@@ -859,22 +162,22 @@ detail props          [variable]           1/137276   ( 0.0%)
 dtl prp lght          [variable]           1/4        (25.0%) 
 HDR dtl prp lght      [variable]           1/4        (25.0%) 
 static props          [variable]           1/70380    ( 0.0%) 
-pakfile               [variable]       23249/0        ( 0.0%) 
-physics               [variable]     7682798/4194304  (183.2%) VERY FULL!
+pakfile               [variable]     3479733/0        ( 0.0%) 
+physics               [variable]     7682864/4194304  (183.2%) VERY FULL!
 physics terrain       [variable]           0/1048576  ( 0.0%) 
 
 Level flags = 0
 
 Total triangle count: 60145
-Writing d:\oihguv\mge_oihguv_sucks_b6.bsp
-5 minutes, 1 second elapsed
+Writing d:\oihguv\b6\mge_oihguv_sucks_b6.bsp
+4 minutes, 51 seconds elapsed
 
 
 
 [Reading texlights from 'lights.rad']
 [56 texlights parsed from 'lights.rad']
 
-Loading d:\oihguv\mge_oihguv_sucks_b6.bsp
+Loading d:\oihguv\b6\mge_oihguv_sucks_b6.bsp
 20785 faces
 19 degenerate faces
 10495377 square feet [1511334272.00 square inches]
@@ -889,19 +192,19 @@ zero area child patch
 3199 direct lights
 0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 17745701, max 951
 transfer lists: 135.4 megs
-0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(522791, 271902, 228655)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(65884, 30848, 22091)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11964, 5415, 3323)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2681, 1220, 648)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(711, 328, 150)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(210, 99, 39)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(67, 32, 11)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(23, 11, 3)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
-Build Patch/Sample Hash Table(s).....Done<0.0547 sec>
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(638191, 328950, 289024)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(98316, 44039, 34684)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20101, 8306, 5840)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4821, 1885, 1192)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1314, 499, 282)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(394, 148, 75)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(128, 47, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(44, 16, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(16, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0566 sec>
 0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
 Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
 3096 of 3096 (100% of) surface lights went in leaf ambient cubes.
@@ -916,8 +219,8 @@ brushsides           38650/65536      309200/524288   (59.0%)
 planes               31612/65536      632240/1310720  (48.2%) 
 vertexes             41216/65536      494592/786432   (62.9%) 
 nodes                11401/65536      364832/2097152  (17.4%) 
-texinfos              4234/12288      304848/884736   (34.5%) 
-texdata                156/2048         4992/65536    ( 7.6%) 
+texinfos              4237/12288      305064/884736   (34.5%) 
+texdata                157/2048         5024/65536    ( 7.7%) 
 dispinfos              922/0          162272/0        ( 0.0%) 
 disp_verts           35810/0          716200/0        ( 0.0%) 
 disp_tris            51872/0          103744/0        ( 0.0%) 
@@ -939,14 +242,14 @@ waterverts               0/65536           0/786432   ( 0.0%)
 waterindices         47049/65536       94098/131072   (71.8%) 
 cubemapsamples          29/1024          464/16384    ( 2.8%) 
 overlays                 0/512             0/180224   ( 0.0%) 
-LDR lightdata         [variable]    11880116/0        ( 0.0%) 
-HDR lightdata         [variable]    11880116/0        ( 0.0%) 
+LDR lightdata         [variable]    11880244/0        ( 0.0%) 
+HDR lightdata         [variable]    11880244/0        ( 0.0%) 
 visdata               [variable]     1055019/16777216 ( 6.3%) 
-entdata               [variable]       59255/393216   (15.1%) 
+entdata               [variable]       59245/393216   (15.1%) 
 LDR ambient table    11458/65536       45832/262144   (17.5%) 
 HDR ambient table    11458/65536       45832/262144   (17.5%) 
-LDR leaf ambient     62829/65536     1759212/1835008  (95.9%) VERY FULL!
-HDR leaf ambient     62836/65536     1759408/1835008  (95.9%) VERY FULL!
+LDR leaf ambient     62756/65536     1757168/1835008  (95.8%) VERY FULL!
+HDR leaf ambient     62755/65536     1757140/1835008  (95.8%) VERY FULL!
 occluders                0/0               0/0        ( 0.0%) 
 occluder polygons        0/0               0/0        ( 0.0%) 
 occluder vert ind        0/0               0/0        ( 0.0%) 
@@ -954,12 +257,12 @@ detail props          [variable]           1/137276   ( 0.0%)
 dtl prp lght          [variable]           1/4        (25.0%) 
 HDR dtl prp lght      [variable]           1/4        (25.0%) 
 static props          [variable]           1/70380    ( 0.0%) 
-pakfile               [variable]       23249/0        ( 0.0%) 
-physics               [variable]     7682798/4194304  (183.2%) VERY FULL!
+pakfile               [variable]     3479733/0        ( 0.0%) 
+physics               [variable]     7682864/4194304  (183.2%) VERY FULL!
 physics terrain       [variable]           0/1048576  ( 0.0%) 
 
 Level flags = 0
 
 Total triangle count: 60145
-Writing d:\oihguv\mge_oihguv_sucks_b6.bsp
-5 minutes, 1 second elapsed
+Writing d:\oihguv\b6\mge_oihguv_sucks_b6.bsp
+4 minutes, 51 seconds elapsed

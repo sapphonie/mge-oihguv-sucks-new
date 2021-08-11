@@ -1,60 +1,32 @@
-models/guimian/a_hat_in_time/hats/Nyakuza_Cap.dx80.vtx
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models\guimian\a_hat_in_time\hats\Nyakuza_Cap.dx80.vtx
-models/guimian/a_hat_in_time/hats/Nyakuza_Cap.dx90.vtx
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models\guimian\a_hat_in_time\hats\Nyakuza_Cap.dx90.vtx
-models/guimian/a_hat_in_time/hats/nyakuza_cap.mdl
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models\guimian\a_hat_in_time\hats\nyakuza_cap.mdl
-models/guimian/a_hat_in_time/hats/nyakuza_cap.vvd
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\models\guimian\a_hat_in_time\hats\nyakuza_cap.vvd
-materials/models/guimian/A_Hat_In_Time/hats/Nyakuza_Cap/cap_ch.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\hats\Nyakuza_Cap\cap_ch.vtf
-materials/models/guimian/A_Hat_In_Time/hats/Nyakuza_Cap/cap_d.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\hats\Nyakuza_Cap\cap_d.vtf
-materials/models/guimian/A_Hat_In_Time/hats/Nyakuza_Cap/cap_n.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\hats\Nyakuza_Cap\cap_n.vtf
-materials/models/guimian/A_Hat_In_Time/hats/Nyakuza_Cap/cap_exp.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\hats\Nyakuza_Cap\cap_exp.vtf
-materials/models/guimian/A_Hat_In_Time/hats/Nyakuza_Cap/cap_mat_CH.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\hats\Nyakuza_Cap\cap_mat_CH.vmt
-materials/models/guimian/A_Hat_In_Time/hats/Nyakuza_Cap/cap_mat_M.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\hats\Nyakuza_Cap\cap_mat_M.vmt
-materials/models/guimian/A_Hat_In_Time/hats/Nyakuza_Cap/cap_mat.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\hats\Nyakuza_Cap\cap_mat.vmt
-materials/models/cubemaps/fallout4cube_dithered_grey.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\cubemaps\fallout4cube_dithered_grey.vtf
-materials/models/guimian/a_hat_in_time/hat_kid/flat_exp.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\Hat_Kid\flat_exp.vtf
-materials/models/guimian/a_hat_in_time/hat_kid/flat_normal.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\Hat_Kid\flat_normal.vtf
-materials/MGE/MGEthingy.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\MGE\MGEthingy.vmt
+/models/guimian/a_hat_in_time/hats/flower_crown.dx80.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\\models\guimian\a_hat_in_time\hats\flower_crown.dx80.vtx
+/models/guimian/a_hat_in_time/hats/flower_crown.dx90.vtx
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\\models\guimian\a_hat_in_time\hats\flower_crown.dx90.vtx
+/models/guimian/a_hat_in_time/hats/flower_crown.mdl
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\\models\guimian\a_hat_in_time\hats\flower_crown.mdl
+/models/guimian/a_hat_in_time/hats/flower_crown.vvd
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\\models\guimian\a_hat_in_time\hats\flower_crown.vvd
+materials/models/guimian/A_Hat_In_Time/hats/flower_crown/flower_d.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\hats\flower_crown\flower_d.vtf
+materials/models/guimian/A_Hat_In_Time/hats/flower_crown/flower_d.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\hats\flower_crown\flower_d.vtf
+materials/models/guimian/A_Hat_In_Time/hats/flower_crown/flowercrown.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\models\guimian\A_Hat_In_Time\hats\flower_crown\flowercrown.vmt
 materials/MGE/MGEthingy.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\MGE\MGEthingy.vtf
-materials/MGE/MGEthingy2.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\MGE\MGEthingy2.vmt
+materials/MGE/MGEthingy.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\MGE\MGEthingy.vmt
 materials/MGE/MGEthingy2.vtf
 C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\MGE\MGEthingy2.vtf
-materials/skybox/sky_yuki_01bk.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01bk.vmt
-materials/skybox/sky_yuki_01bk.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01bk.vtf
-materials/skybox/sky_yuki_01dn.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01dn.vmt
-materials/skybox/sky_yuki_01dn.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01dn.vtf
-materials/skybox/sky_yuki_01ft.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01ft.vmt
-materials/skybox/sky_yuki_01ft.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01ft.vtf
-materials/skybox/sky_yuki_01lf.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01lf.vmt
-materials/skybox/sky_yuki_01lf.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01lf.vtf
-materials/skybox/sky_yuki_01rt.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01rt.vmt
-materials/skybox/sky_yuki_01rt.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01rt.vtf
-materials/skybox/sky_yuki_01up.vmt
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01up.vmt
-materials/skybox/sky_yuki_01up.vtf
-C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_yuki_01up.vtf
+materials/MGE/MGEthingy2.vmt
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\MGE\MGEthingy2.vmt
+materials/skybox/sky_twilight_02_fixbk.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_twilight_02_fixbk.vtf
+materials/skybox/sky_twilight_02_fixdn.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_twilight_02_fixdn.vtf
+materials/skybox/sky_twilight_02_fixft.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_twilight_02_fixft.vtf
+materials/skybox/sky_twilight_02_fixlf.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_twilight_02_fixlf.vtf
+materials/skybox/sky_twilight_02_fixrt.vtf
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\skybox\sky_twilight_02_fixrt.vtf

@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\guimian\A_Hat_In_Time\hats\flower_crown\flower_d"
+	"$bumpmap" "models\guimian\A_Hat_In_Time\hats\flower_crown\flower_n"
+
+	"$phongexponenttexture" "models\guimian\A_Hat_In_Time\Hat_Kid\flat_exp"
+
+	"$phong" "1"
+	"$phongboost"	"9.9934895"
+
+	"$phongdisablehalflambert"	"1"
+
+	"$envmap" "models\cubemaps\fallout4cube_dithered_grey"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapfresnel"	"1"
+
+	"$envmaptint"		"[.2 .2 .2]"
+}
+
+//	Material using pseudo pbr method 34.2 (Metalness)
+//	Engine branch: SFM
+//	Hierarchy: Stack 1/3
+//	This vmt affects: Non-metals

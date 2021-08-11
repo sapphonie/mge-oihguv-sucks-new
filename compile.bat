@@ -1,3 +1,0 @@
-."C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\bin\bspzip.exe" -addlist "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps\mge_oihguv_sucks_b6.bsp" "D:\oihguv\pakfiles.txt" "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps\mge_oihguv_sucks_sucks_b6.bsp"
-
-."C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\bin\bspzip.exe" -repack -compress "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\maps\mge_oihguv_sucks_b6.bsp"

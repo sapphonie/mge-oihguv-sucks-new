@@ -1,0 +1,21 @@
+# flower crown model
+/models/guimian/a_hat_in_time/hats/flower_crown.dx80.vtx
+/models/guimian/a_hat_in_time/hats/flower_crown.dx90.vtx
+/models/guimian/a_hat_in_time/hats/flower_crown.mdl
+/models/guimian/a_hat_in_time/hats/flower_crown.vvd
+# flower crown mats
+materials/models/guimian/A_Hat_In_Time/hats/flower_crown/flower_d.vtf
+materials/models/guimian/A_Hat_In_Time/hats/flower_crown/flower_d.vtf
+materials/models/guimian/A_Hat_In_Time/hats/flower_crown/flowercrown.vmt
+# mge banner mats
+materials/MGE/MGEthingy.vtf
+materials/MGE/MGEthingy.vmt
+materials/MGE/MGEthingy2.vtf
+materials/MGE/MGEthingy2.vmt
+# skybox
+materials/skybox/sky_twilight_02_fixbk.vtf
+materials/skybox/sky_twilight_02_fixdn.vtf
+materials/skybox/sky_twilight_02_fixft.vtf
+materials/skybox/sky_twilight_02_fixlf.vtf
+materials/skybox/sky_twilight_02_fixrt.vtf
+materials/skybox/sky_twilight
